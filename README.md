@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Giday</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
-      - 🌱 I’m currently learning **Software Engineering Programme in ALX (cohort 12)**
-
-      - 📫 How to reach me **daneximpex@gmail.com**
+- 🌱 I’m currently learning **Software Engineering Programme in ALX (cohort 12)**
+- 📫 How to reach me: **daneximpex@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danielgebremar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielgebremar3" height="30" width="40" /></a>
