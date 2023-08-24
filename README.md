@@ -1,4 +1,4 @@
-<div width="900" hight="400"><img align="center" alt="Coding" width="700" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"></div>
+<div width="900" hight="100"><img align="center" alt="Coding" width="700" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif"></div>
 <!--![Aysuarex_banner](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)-->
 <!--<h1 align="center">Hi <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="30px">, I'm Daniel Giday</h1>-->
 <h1 align="center">Hi 👋, I'm Daniel Giday</h1>
