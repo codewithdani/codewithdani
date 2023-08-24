@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="700" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="center" alt="Coding" width="700" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <!--![Aysuarex_banner](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)-->
 <h1 align="center">Hi <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="30px">, I'm Daniel Giday</h1>
 <!--<h1 align="center">Hi 👋, I'm Daniel Giday</h1>-->
