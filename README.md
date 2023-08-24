@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.gfycat.com%2FKindDistortedIrrawaddydolphin-size_restricted.gif&tbnid=siTEw_b4w1pCRM&vet=10CAIQxiAoAGoXChMIwJv1vp_1gAMVAAAAAB0AAAAAEDM..i&imgrefurl)](https%3A%2F%2Fgfycat.com%2Fkinddistortedirrawaddydolphin&docid=IzRLwEPRIr0ImM&w=445&h=250&itg=1&q=animated%20coding%20gif&ved=0CAIQxiAoAGoXChMIwJv1vp_1gAMVAAAAAB0AAAAAEDM.gif)
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <h1 align="center">Hi 👋, I'm Daniel Giday</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
