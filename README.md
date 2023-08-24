@@ -3,12 +3,6 @@
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithdani&label=Profile%20views&color=0e75b6&style=flat" alt="codewithdani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithdani" alt="codewithdani" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/danielgebremar3" target="blank"><img src="https://img.shields.io/twitter/follow/danielgebremar3?logo=twitter&style=for-the-badge" alt="danielgebremar3" /></a> </p>
-
 - 🌱 I’m currently learning **Software Engineering Programme (cohort 12)**
 
 - 📫 How to reach me **daneximpex@gmail.com**
