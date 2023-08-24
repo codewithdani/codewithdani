@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" hight="300" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<img align="center" alt="Coding" width="700" hight="300" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 <h1 align="center">Hi 👋, I'm Daniel Giday</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
