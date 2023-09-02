@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="800" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<!--<img align="center" alt="Coding" width="800" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">-->
+<img align="center" alt="Coding" width="800" src="https://www.lifewire.com/definition-of-sniffer-817996">
 <!--<h1 align="center">Hi <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="30px">, I'm Daniel Giday</h1>-->
 <h1 align="center">Hi 👋, I'm Daniel Giday</h1>
 <h2 align="center">A passionate Software Engineer from Ethiopia</h2>
